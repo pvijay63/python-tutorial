@@ -1,0 +1,26 @@
+inheritance is getting the properties from parent class to child class
+'''
+types of inheritance
+ 1.single inheritance
+ 2.multilevel inheritance
+ 3.multiple inheritance
+ 4.hierachical inheritance
+ '''
+ 1.single inheritance;
+    parent
+      | 
+    child
+ 2.multilevel inheritance
+     parent1
+        |    
+     parent2
+        |
+     child
+3.multiple inheritance
+   father   mother
+          |
+        child
+4.hierachical inheritance
+        parent
+          |
+    child1 child2
