@@ -1,0 +1,19 @@
+encapsulation is a method of wrapping the variables and methods as a single unit.
+''
+In encapsulation we use access specifiers;
+public
+private
+protected
+''
+polymorphism using a  samemethod with different parameters. 
+poly--many
+morph--forms
+''
+two types in polymorphism are
+method overriding
+method overloading
+''
+data abstracion is a method of hiding information.
+''
+it is hiding of information
+''
