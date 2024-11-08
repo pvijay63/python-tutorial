@@ -31,6 +31,8 @@ w+-wite read
 #inheritence ,single,multilevel,multiple,hierachical inheritences
 #Encappsulation,private,protected,public access specifiers
 #polymorphism--method overloading,method overriding
+#data abstraction
+
 
 
 
